@@ -1,0 +1,39 @@
+* PGA2311 KICAD board.
+  http://www.ti.com/lit/ds/sbos218a/sbos218a.pdf
+
+
+* images
+    #+CAPTION: schematic
+    #+NAME:   fig:0
+    #+attr_html: :width 800px
+    [[./images/pga2311.png]]
+
+    #+CAPTION: 3d1
+    #+NAME:   fig:1
+    #+attr_html: :width 800px
+    [[./images/3d1.png]]
+
+    #+CAPTION: 3d2
+    #+NAME:   fig:2
+    #+attr_html: :width 800px
+    [[./images/3d2.png]]
+
+    #+CAPTION: pcb back
+    #+NAME:   fig:3
+    #+attr_html: :width 800px
+    [[./images/back.png]]
+
+    #+CAPTION: pcb front
+    #+NAME:   fig:4
+    #+attr_html: :width 800px
+    [[./images/front.png]]
+
+    #+CAPTION: pcb-B_Cu
+    #+NAME:   fig:2
+    #+attr_html: :width 800px
+    [[./images/pga2311-B_Cu.png]]
+
+    #+CAPTION: pcb-F_Cu
+    #+NAME:   fig:2
+    #+attr_html: :width 800px
+    [[./images/pga2311-F_Cu.png]]
