@@ -1,4 +1,4 @@
-update=Wed 19 Aug 2015 11:31:11 AM EDT
+update=Sat 24 Oct 2015 10:25:07 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=lib
+LibDir=lib;../MyLib/jjrh
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/pga2311
+LibName31=/home/jjrh/CODE/kicad/MyLib/jjrh/jTransformers
+LibName32=jTransformers

@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:pga2311
+LIBS:jTransformers
 LIBS:pga2311-cache
 EELAYER 25 0
 EELAYER END
@@ -73,7 +74,7 @@ U 1 1 55D4A9B4
 P 4675 2975
 F 0 "C1" H 4685 3045 50  0000 L CNN
 F 1 "10uF" H 4685 2895 50  0000 L CNN
-F 2 "w_smd_cap:c_tant_C" H 4675 2975 60  0001 C CNN
+F 2 "w_smd_cap:c_tant_D" H 4675 2975 60  0001 C CNN
 F 3 "" H 4675 2975 60  0000 C CNN
 F 4 "tantalum or aluminum electrolytic)" H 4675 2975 60  0001 C CNN "notes"
 	1    4675 2975
@@ -85,7 +86,7 @@ U 1 1 55D4AC42
 P 8350 2675
 F 0 "C4" H 8360 2745 50  0000 L CNN
 F 1 "10uF" H 8360 2595 50  0000 L CNN
-F 2 "w_smd_cap:c_tant_C" H 8350 2675 60  0001 C CNN
+F 2 "w_smd_cap:c_tant_D" H 8350 2675 60  0001 C CNN
 F 3 "" H 8350 2675 60  0000 C CNN
 F 4 "tantalum or aluminum electrolytic)" H 8350 2675 60  0001 C CNN "notes"
 	1    8350 2675
